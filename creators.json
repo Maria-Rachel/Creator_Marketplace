@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "creator": "Aarav Crafts",
+        "product": "Wooden Vase",
+        "category": "Handmade Crafts",
+        "price": 850
+    },
+    {
+        "id": 2,
+        "creator": "Meera Jewels",
+        "product": "Pearl Necklace",
+        "category": "Jewelry",
+        "price": 1500
+    },
+    {
+        "id": 3,
+        "creator": "Riya Art Studio",
+        "product": "Canvas Painting",
+        "category": "Artwork",
+        "price": 3200
+    },
+    {
+        "id": 4,
+        "creator": "Digital Dreams",
+        "product": "Instagram Templates",
+        "category": "Digital Products",
+        "price": 499
+    },
+    {
+        "id": 5,
+        "creator": "Kavya Crafts",
+        "product": "Ceramic Mug",
+        "category": "Handmade Crafts",
+        "price": 650
+    },
+    {
+        "id": 6,
+        "creator": "Ananya Jewelry",
+        "product": "Handmade Bracelet",
+        "category": "Jewelry",
+        "price": 950
+    },
+    {
+        "id": 7,
+        "creator": "Vikram Art",
+        "product": "Watercolor Painting",
+        "category": "Artwork",
+        "price": 2200
+    },
+    {
+        "id": 8,
+        "creator": "Pixel Studio",
+        "product": "Logo Template",
+        "category": "Digital Products",
+        "price": 799
+    },
+    {
+        "id": 9,
+        "creator": "Neha Handmade",
+        "product": "Clay Pot",
+        "category": "Handmade Crafts",
+        "price": 700
+    },
+    {
+        "id": 10,
+        "creator": "Ishita Designs",
+        "product": "Digital Planner",
+        "category": "Digital Products",
+        "price": 399
+    }
+]
