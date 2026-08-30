@@ -64,7 +64,3 @@ The app includes:
 - Orders page
 - Analytics dashboard
 - Support center
-
-## Notes
-
-This app is designed as a realistic marketplace prototype and can be extended with a database, backend API, payment integration, and admin controls.
